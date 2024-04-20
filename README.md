@@ -45,7 +45,7 @@ library(AgroSoilIndices)
 Soil_Indices( )
 ```
 A new window opens for selecting an excel containing the data as per the prescribed format. 
-The data file format is attached above named __`"Example_data_format.xlsx"`__ [click here to download](https://github.com/Naveen1098/AgroSoilIndices/blob/main/Example_data_format.xlsx "download")
+The data file format is attached above named __`"Example_soil_datasheet.xlsx"`__ [click here to download](https://github.com/Naveen1098/AgroSoilIndices/blob/main/Example_soil_datasheet.xlsx "download")
 
 
 **Note: If the data is not saved in the prescribed format the program won't run properly. Be cautious**
