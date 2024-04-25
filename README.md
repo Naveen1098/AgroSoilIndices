@@ -36,7 +36,7 @@ Step 3: Installing the AgroSoilIndices package:
 install_github("Naveen1098/AgroSoilIndices")
 ```
 ## Example 
-After installing `Weed_Indices` you should be also able to run the following lines:
+After installing `AgroSoilIndices` you should be also able to run the following lines:
 ```
 # Required libraries
 library(AgroSoilIndices)
